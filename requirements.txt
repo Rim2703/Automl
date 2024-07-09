@@ -3,4 +3,3 @@ pycaret
 streamlit
 streamlit_pandas_profiling
 ydata_profiling
-phik
