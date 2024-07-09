@@ -2,4 +2,4 @@ pandas
 pycaret
 streamlit
 streamlit_pandas_profiling
-ydata_profiling
+ydata_profiling==4.8.3
