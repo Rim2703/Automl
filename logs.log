@@ -5910,3 +5910,56 @@ https://github.com/ydataai/ydata-profiling/issues
 (include the error message: 'Function <code object pandas_auto_compute at 0x000001CA4E169E20, file "C:\Users\HP PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\ydata_profiling\model\pandas\correlations_pandas.py", line 164>')
   warnings.warn(
 
+2024-07-09 19:48:42,908:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-09 19:48:42,908:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-09 19:48:42,908:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-09 19:48:42,908:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-09 19:49:41,737:WARNING:C:\Users\HP PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\phik\report.py:382: UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure.
+  plt.show()
+
+2024-07-09 19:49:48,242:WARNING:C:\Users\HP PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\phik\phik.py:319: RuntimeWarning: invalid value encountered in sqrt
+  global_correlations = np.sqrt(
+
+2024-07-09 19:49:49,067:WARNING:C:\Users\HP PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\phik\report.py:408: UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure.
+  plt.show()
+
+2024-07-09 19:49:51,790:WARNING:C:\Users\HP PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\phik\report.py:439: UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure.
+  plt.show()
+
+2024-07-09 19:50:39,177:WARNING:C:\Users\HP PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\phik\report.py:487: UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure.
+  plt.show()
+
+2024-07-09 19:51:10,609:WARNING:C:\Users\HP PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\phik\report.py:487: UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure.
+  plt.show()
+
+2024-07-09 19:51:16,203:WARNING:C:\Users\HP PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\phik\report.py:487: UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure.
+  plt.show()
+
+2024-07-09 19:51:24,600:WARNING:C:\Users\HP PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\phik\report.py:487: UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure.
+  plt.show()
+
+2024-07-09 19:51:24,611:WARNING:C:\Users\HP PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\phik\outliers.py:200: RuntimeWarning: invalid value encountered in scalar subtract
+  logmidp = np.log(0.5) + lp + np.log(1 + np.exp(lp1 - lp))
+
+2024-07-09 19:51:24,813:WARNING:C:\Users\HP PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\phik\report.py:487: UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure.
+  plt.show()
+
+2024-07-09 19:51:25,229:WARNING:C:\Users\HP PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\phik\report.py:487: UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure.
+  plt.show()
+
+2024-07-09 19:51:37,104:WARNING:C:\Users\HP PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\phik\report.py:487: UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure.
+  plt.show()
+
+2024-07-09 19:51:37,474:WARNING:C:\Users\HP PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\phik\report.py:487: UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure.
+  plt.show()
+
+2024-07-09 19:51:39,181:WARNING:C:\Users\HP PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\phik\report.py:487: UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure.
+  plt.show()
+
+2024-07-09 19:51:39,561:WARNING:C:\Users\HP PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\phik\report.py:487: UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure.
+  plt.show()
+
